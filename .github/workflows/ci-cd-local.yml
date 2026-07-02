@@ -1,6 +1,5 @@
 name: Pipeline Test Express
 
-# Le robot se réveille dès qu'il y a un push ou une PR sur main
 on:
   push:
     branches: [ "main" ]
